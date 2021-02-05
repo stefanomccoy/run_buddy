@@ -1,0 +1,20 @@
+.link {
+    color:aqua;
+    border: 1px solid red;
+
+}
+
+#we {
+    color:blueviolet;
+    border: 5px solid orange;
+}
+
+#your {
+    color:pink;
+    margin: 200px;
+}
+
+#surf {
+    color: purple;
+    border: 10px dotted green;
+}
